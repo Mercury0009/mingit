@@ -1,0 +1,3 @@
+1. Go to C:\Users\<my_username>\AppData\Roaming and locate the .gitkraken folder
+2. Inside this folder you can find a localRepoCache file.
+3. Remove the entries that areunwanted/ duplicated, and restart the Gitkraken.
